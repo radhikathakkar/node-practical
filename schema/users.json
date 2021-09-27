@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "6151a876ea9893b03cc1458f"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "test123@gmail.com",
+  "password": "test123",
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-09-27T11:18:14.745Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T11:18:14.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151ab4c4bc0f37e7f22403a"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "test1234@gmail.com",
+  "password": "$2a$10$SKHVV5HKXtiyEtvAK5gUbOIddLoUgh8iFZiyIHR7Noei7FL.NDtDO",
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-09-27T11:30:21.049Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T11:30:21.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151abd3b7f364be9b5d07a2"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "test12345@gmail.com",
+  "password": "$2a$10$j3BRF5prYoWMoTdo2UbOb.OXVv.LeEcfRIVNKHDF3RvNRXPbqm9gW",
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-09-27T11:32:36.062Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T11:32:36.062Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151acd0bbd6e0158328852c"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "t124@gmail.com",
+  "password": "$2a$10$GjAg2K8zyWmSzWFUFFjNtOSrWK9N2eemI85CpbrVOFwRhzy57O8Uy",
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-09-27T11:36:48.178Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T11:36:48.178Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151afc1cdf00628e68c1f6a"
+  },
+  "firstName": "test",
+  "lastName": "thakkar",
+  "email": "test56565@gmail.com",
+  "password": "$2a$10$jpzP/.d6vLYsJRDug.4Rwudnh2axEXwyeSIev3wogkrzwB/c/kT3.",
+  "dob": {
+    "$date": "2021-09-30T00:00:00Z"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-09-27T11:49:21.854Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T11:49:21.854Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151c06a583e13f19612570c"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "t12444@gmail.com",
+  "password": "$2a$10$CXkLfaoiNxJWeUy2fHa49OImqRqtzxMfSx4t4jlrY6RXGSWLxlKcu",
+  "role": "user",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-09-27T13:00:26.886Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T13:00:26.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151c1d94fa287054d69178c"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "rt123@gmail.com",
+  "password": "$2a$10$s1V07HmDEKx1rvX/xxgR1OhpiZjYP2s7AsO23KjCuXU4haKVr.yiy",
+  "role": "user",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-09-27T13:06:33.481Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T13:06:33.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151c20e08235bbf1c0bba5a"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "rt1234@gmail.com",
+  "password": "$2a$10$FKyOIkscQKNiq.4tkqIzWO8hfZw/NIy0/e3jGgfqGgpZmAt.eEQM.",
+  "role": "user",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-09-27T13:07:26.556Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T13:07:26.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6151cd8d08235bbf1c0bba7b"
+  },
+  "firstName": "radhika",
+  "lastName": "thakkar",
+  "email": "radhik123@gmail.com",
+  "password": "$2a$10$T/cQm60jako7fBqHC6JuguHdNoCwhItvmrEjYSJtcatg3/FgeEFFe",
+  "role": "admin",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2021-09-27T13:56:29.795Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-27T13:56:29.795Z"
+  },
+  "__v": 0
+}]
