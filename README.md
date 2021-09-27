@@ -1,5 +1,6 @@
 # node-practical
 
+=> after cloning branch move to the master branch and then please follow the below steps
 1) run command: npm install
 2) port will run on 3000
 3) create one databse in mongoDB with name "practical"
